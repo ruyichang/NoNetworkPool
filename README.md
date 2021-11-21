@@ -16,8 +16,6 @@
 
 [断网宝Linux安装教程](https://github.com/iblockin/Poolin-SmartAgentExplan/tree/master/no_nework_pool/Linux)
 
-[断网宝Windows安装教程](https://github.com/iblockin/Poolin-SmartAgentExplan/tree/master/no_nework_pool/Windows)
-
 ### 断网宝矿机配置方式
 
 ```asm
@@ -32,7 +30,7 @@
 
 ```asm
 第一挖矿地址: stratum+tcp://192.168.1.254:8001
-第二挖矿地址: stratum+tcp://btc.ss.poolin.com:443
+第二挖矿地址: stratum+tcp://btc.ss.yourpool.com:443
 第三挖矿地址: stratum+tcp://192.168.1.254:18001
 ```
 
